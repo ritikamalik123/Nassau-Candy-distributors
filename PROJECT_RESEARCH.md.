@@ -1,0 +1,235 @@
+Factory-to-Customer Shipping Route Efficiency Analysis
+
+Business Research & Analytical Framework
+
+1. Project Overview
+Nassau Candy Distributor operates as a national distributor, delivering products from factories to customers across multiple regions in the United States.
+
+Efficient logistics and transportation management are essential for maintaining customer satisfaction, controlling operational costs, and ensuring timely deliveries.
+
+This project focuses on analyzing shipping and delivery data using Python to identify operational inefficiencies, understand delivery delays, evaluate transportation costs, and recommend improvements to logistics operations.
+
+2. Business Problem
+
+The company faces potential challenges in managing its shipping operations, including:
+
+Delayed customer deliveries.
+
+High transportation and shipping costs.
+
+Inefficient shipping routes.
+
+Regional differences in delivery performance.
+
+Poor performance across certain shipping modes.
+
+Reduced customer satisfaction due to late deliveries.
+ Research Objectives
+
+Evaluate overall shipping and delivery performance.
+
+Identify regions with the highest delivery delays.
+
+Analyze shipping costs across different shipping modes.
+
+Identify products and orders associated with operational inefficiencies.
+
+Examine the relationship between delivery delays and customer satisfaction.
+
+Identify high-performing and low-performing shipping regions.
+
+Develop actionable recommendations to optimize logistics operations.
+
+4. Key Business Questions
+
+A. Shipping PerformanceWhat percentage of orders are delivered on time?
+
+What is the average delivery time?
+
+How many orders experience delivery delays?
+
+Which shipping modes have the best delivery performance?
+
+B. Regional Analysis
+
+Which states or regions experience the highest delivery delays?
+
+Which regions have the highest average shipping costs?
+
+Are certain regions consistently underperforming?
+
+C. Shipping Mode Analysis
+
+Which shipping mode is most cost-effective?
+
+Which shipping mode provides the fastest delivery?
+
+Does a higher shipping cost result in better delivery performance?
+
+D. Customer Satisfaction
+
+Does late delivery negatively affect customer satisfaction?
+
+Which regions have the lowest customer satisfaction?
+
+Are customers more satisfied with specific shipping modes?
+
+E. Operational Efficiency
+
+Where are the major logistics bottlenecks?
+
+Which shipping routes require improvement?
+
+What operational changes could reduce shipping costs?
+
+5. Key Performance Indicators (KPIs)
+
+The following KPIs will be used:
+
+Total Orders
+
+Total Shipping Cost
+
+Average Shipping Cost
+
+Average Delivery Time
+
+On-Time Delivery Rate
+
+Late Delivery Rate
+
+Average Shipping Cost per Order
+
+Regional Delivery Performance
+
+Shipping Mode Performance
+
+Customer Satisfaction Score
+
+6. Tools and Technologies
+
+The entire project will be conducted using Python.
+
+Tool
+
+Purpose
+
+Python
+
+Data analysis
+
+Pandas
+
+Data cleaning and manipulation
+
+NumPy
+
+Numerical calculations
+
+Matplotlib
+
+Data visualization
+
+Seaborn
+
+Statistical visualization
+
+Jupyter Notebook
+
+Analysis and documentation
+
+7. Research Methodology
+
+Phase 1: Data Understanding
+
+Understand the dataset structure.
+
+Identify columns and data types.
+
+Examine missing values and duplicate records.
+
+Understand order, shipping, and delivery information.
+
+Phase 2: Data Cleaning
+
+Handle missing values.
+
+Remove or investigate duplicate records.Correct inconsistent data types.
+
+Identify invalid values and outliers.
+
+Prepare data for analysis.
+
+Phase 3: Exploratory Data Analysis (EDA)
+
+Analyze order distribution.
+
+Examine shipping costs.
+
+Evaluate delivery performance.
+
+Compare regional performance.
+
+Analyze shipping modes.
+
+Investigate customer satisfaction.
+
+Phase 4: Business Analysis
+
+Identify major operational bottlenecks.
+
+Compare high-performing and low-performing regions.
+
+Evaluate cost versus delivery efficiency.
+
+Identify potential opportunities for improvement.
+
+Phase 5: Business Recommendations
+
+Suggest ways to reduce shipping costs.
+
+Recommend improvements in shipping mode selection.
+
+Identify regions requiring operational attention.
+
+Suggest strategies to improve on-time delivery.
+
+Recommend actions to improve customer satisfaction.
+
+8. Expected Business Outcomes
+
+The project aims to help the business:
+
+Reduce unnecessary transportation expenses.
+
+Improve on-time delivery performance.
+
+Identify inefficient shipping operations.
+
+Improve regional logistics planning.
+
+Enhance customer satisfaction.
+
+Make better data-driven transportation decisions.
+
+9. Final Deliverables
+
+Cleaned dataset.
+
+Python-based exploratory data analysis.
+
+Data visualizations.
+
+Business insights.
+
+Actionable business recommendations.
+
+Final project documentation.
+
+10. Conclusion
+
+This project applies Python-based data analytics to investigate logistics and shipping performance.
+By identifying delivery inefficiencies, analyzing transportation costs, and evaluating regional performance, 
+the analysis aims to provide actionable recommendations that support better operational decisions and improve overall supply chain efficiency.
+
+The business needs a data-driven approach to understand these challenges and improve overall shipping efficiency.
